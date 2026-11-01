@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suman748.github.io/tracknexa/sitemap.xml
